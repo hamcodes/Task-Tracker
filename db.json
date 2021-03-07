@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Practice React",
+      "day": "March 7th at 7:00am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Study Data Structures",
+      "day": "March 9th at 7:00am",
+      "reminder": true
+    },
+    {
+      "text": "take test",
+      "day": "friday",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
